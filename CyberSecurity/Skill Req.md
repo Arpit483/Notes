@@ -1,0 +1,30 @@
+
+- Knowledge of security/threat landscape. 
+- Threat intelligence investigation techniques 
+- Network and host defence.
+- Understanding of cyber espionage motivations, tools and infrastructure. 
+- Attribution of activity to specific threat groups 
+- Assessing connections between established threat groups and communicating attribution assessments to internal stakeholders and customers in a timely manner.  
+- Finding new threat actor intrusions previously undetected by defence teams and tools 
+- Deep understanding of endpoint, cloud, network, and identity-based attacks and datasets. 
+- Reverse engineering 
+- Azure DevOps or similar cloud-based development experience. 
+- Development skills with C, C++, C# and scripting languages (Python/PowerShell/JS). 
+- Cloud (services, serverless, SQL/NOSQL)  
+- Backend development  
+- Architecture and Design for scalable, distributed systems  
+- Big data, data pipelines  
+- Excellent interpersonal skills, with the ability to articulate the business need for security and technical improvements.
+- offensive security experience (red teaming, vulnerability research, penetration testing) in the Cloud environment.
+- Ability to develop custom exploits, modify existing exploits, and bypass security controls.
+-  experience with AI/LLM concepts and their application to security and in one programming language (e.g., Python, Java, C/C++).
+- Experience with Android operating system architecture and security principles.
+- Experience in Android, Android Development, Large Language Model.
+- understanding attacks and mitigation methods, in two or more of the following: network protocols and secure network design; web application security, security assessments and pen testing, authentication and access control, applied cryptography and security protocols, security monitoring and intrusion detection, Incident response and forensics, development of security tools, automation or frameworks. 
+- Experience with malware triage analysis and disk or memory forensics in one or more operating systems.  
+- Experience with enterprise security architecture and security controls.
+- Experience with cloud incidents or forensic responses.
+- Excellent time and project management skills.
+- Experience in Cloud Security or distributed systems.  
+- Knowledge of security principles.
+  

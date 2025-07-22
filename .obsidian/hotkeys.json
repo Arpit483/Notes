@@ -1,0 +1,16 @@
+{
+  "obsidian-minimal-settings:toggle-minimal-focus-mode": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

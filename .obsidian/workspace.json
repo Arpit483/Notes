@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "33f1eb2e1cd8105e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d19739d9bf6e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de274fb7aecc916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/7. Trooper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Trooper"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "478c2f7f0e9818f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f7d5f240aa0111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d998c853fc394e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c9b77bba6d69e526",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a2f2171d9a0ac1a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7165edc7ab4376e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "930de379a5b0f333",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "eb50bd4edc8c1d5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a28855f1e54673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b4800e7a5f7af22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SE/Prev Yrs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prev Yrs"
+            }
+          },
+          {
+            "id": "83a0b33e722ea7c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Networking Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Networking Basics"
+            }
+          },
+          {
+            "id": "e9f04535ecd4c8e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d957953a71646bb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Micro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Micro"
+            }
+          },
+          {
+            "id": "b8eb343bc141865e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3e4f0a0526520cf1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "9ce3c1661f292367",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-day-planner:Timeline": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9de274fb7aecc916",
+  "lastOpenFiles": [
+    "Notes/README.md",
+    "Notes",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/6. Friday Overtime.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/7. Trooper.md",
+    "Images/WhatsApp Image 2024-09-19 at 00.11.19_c53ce996.jpg",
+    "Images/Pasted image 20241102164031.png",
+    "Images/Pasted image 20241031223231.png",
+    "Images/Pasted image 20241028155530.png",
+    "Images/Pasted image 20241028154942.png",
+    "Images/Pasted image 20241024185546.png",
+    "Images/Pasted image 20241024185332.png",
+    "Images/Pasted image 20241024183116.png",
+    "Images/Pasted image 20241024175713.png",
+    "Images/Pasted image 20241024174606.png",
+    "PDFS/APT X_USBFerry.pdf",
+    "APT X_USBFerry.pdf",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/2. Threat Intelligence Tools.md",
+    "CyberSecurity/Course/Ciphers.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/5. MISP.md",
+    "Timeline.md",
+    "CyberSecurity/Skill Req.md",
+    "CyberSecurity/WebHacking/PortSwigger/Burp Suite -- API.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/2. Cyber Kill Chain.md",
+    "Arpit Deosthale.md",
+    "To Do.md",
+    "CyberSecurity/Roadmap.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/4. OpenCTI.md",
+    "Canvas/RoadMap.canvas",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/1. Intro to Cyber Threat Intel.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/3. Yara.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/MAL Introductory room.md",
+    "CyberSecurity/Try Hack ME/Try Hack ME.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/5. MITRE.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/6. Summit.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/Drawing 2025-07-14 00.58.10.excalidraw.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/Cyber Threat Intelligence.md",
+    "Canvas",
+    "CyberSecurity/Try Hack ME/SOC L1/Untitled.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/4. Diamond Model.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/1. Pyramid of Pain.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/3. Unified Kill Chain.md",
+    "Tags",
+    "PDFS/m-trends-2025-en.pdf",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks",
+    "Templates",
+    "CyberSecurity/Try Hack ME/SOC L1",
+    "Untitled.canvas",
+    "Microprocessor_PYQs_UnitWise.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "CyberSecurity/Untitled.canvas"
+  ]
+}
