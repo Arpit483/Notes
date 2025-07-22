@@ -5,14 +5,15 @@
   "encore-settings@@encore-fancy-headers": true,
   "encore-settings@@encore-highlight-border": true,
   "encore-settings@@encore-bright-accent": true,
-  "encore-settings@@encore-disable-grain": false,
+  "encore-settings@@encore-disable-grain": true,
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-disable-logo-on-hr": false,
   "encore-settings@@encore-no-calendar": false,
   "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
-  "encore-settings@@encore-translucency-background": "encore-bg-prismatic",
-  "encore-settings@@encore-translucency-strength": 0.3,
+  "encore-settings@@encore-translucency-background": "encore-bg-dawn",
+  "encore-settings@@encore-translucency-strength": 0.1,
   "encore-settings@@blur-amount": "encore-blur-less",
   "encore-settings@@encore-no-makemd": false,
-  "encore-settings@@theme-light": "encore-theme-light-atom"
+  "encore-settings@@theme-light": "encore-theme-light-atom",
+  "encore-settings@@encore-disable-clickability-fix": false
 }

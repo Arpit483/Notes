@@ -3,5 +3,5 @@
   "baseFontSize": 16,
   "cssTheme": "Encore",
   "theme": "obsidian",
-  "showRibbon": true
+  "showRibbon": false
 }
