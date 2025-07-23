@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
+      "timestamp": 1753287244049
+    },
+    {
+      "filepath": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/1. Traffic Analysis Essentials.md",
+      "timestamp": 1753287232125
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/1. Traffic Analysis Essentials.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Traffic Analysis Essentials"
+              "title": "2. Snort"
             }
           }
         ]
@@ -243,12 +243,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abc20dea8b8029ed",
+  "active": "25d998c853fc394e",
   "lastOpenFiles": [
+    "Images/Pasted image 20250723230252.png",
+    "Images/4astl18b.png",
+    "Images/Pasted image 20250723220757.png",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/1. Traffic Analysis Essentials.md",
     "Images/bib2rhhc.png",
     "Images/vsoe91l9.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/1. Traffic Analysis Essentials.md",
     "bib2rhhc.png",
     "vsoe91l9.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis",
@@ -260,9 +263,6 @@
     "Images/Pasted image 20241102164031.png",
     "Images/Pasted image 20241031223231.png",
     "Images/Pasted image 20241028155530.png",
-    "Images/Pasted image 20241028154942.png",
-    "Images/Pasted image 20241024185546.png",
-    "Images/Pasted image 20241024185332.png",
     "PDFS/APT X_USBFerry.pdf",
     "APT X_USBFerry.pdf",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/2. Threat Intelligence Tools.md",
