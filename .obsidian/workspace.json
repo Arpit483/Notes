@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Prev Yrs.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prev Yrs"
+              "title": "Backlinks for 2. Snort"
             }
           },
           {
@@ -133,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking Basics.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Networking Basics"
+              "title": "Outgoing links from 2. Snort"
             }
           },
           {
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Micro"
+              "title": "Outline of 2. Snort"
             }
           },
           {
@@ -175,8 +176,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -214,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 334,
     "collapsed": true
   },
   "left-ribbon": {
@@ -243,8 +244,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25d998c853fc394e",
+  "active": "abc20dea8b8029ed",
   "lastOpenFiles": [
+    "1fmg2cj4.png",
+    "Pasted image 20250724125045.png",
+    "Pasted image 20250724124413.png",
+    "Pasted image 20250724123816.png",
+    "Pasted image 20250724122304.png",
+    "Pasted image 20250724121745.png",
     "Images/Pasted image 20250723230252.png",
     "Images/4astl18b.png",
     "Images/Pasted image 20250723220757.png",
@@ -252,17 +259,11 @@
     "Images/bib2rhhc.png",
     "Images/vsoe91l9.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-    "bib2rhhc.png",
-    "vsoe91l9.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/7. Trooper.md",
     "Notes/README.md",
     "Notes",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/6. Friday Overtime.md",
-    "Images/WhatsApp Image 2024-09-19 at 00.11.19_c53ce996.jpg",
-    "Images/Pasted image 20241102164031.png",
-    "Images/Pasted image 20241031223231.png",
-    "Images/Pasted image 20241028155530.png",
     "PDFS/APT X_USBFerry.pdf",
     "APT X_USBFerry.pdf",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/2. Threat Intelligence Tools.md",
