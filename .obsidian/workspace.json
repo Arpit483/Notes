@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -162,7 +161,7 @@
               "type": "outline",
               "state": {
                 "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -211,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -246,18 +245,20 @@
   },
   "active": "abc20dea8b8029ed",
   "lastOpenFiles": [
-    "1fmg2cj4.png",
-    "Pasted image 20250724125045.png",
-    "Pasted image 20250724124413.png",
-    "Pasted image 20250724123816.png",
-    "Pasted image 20250724122304.png",
-    "Pasted image 20250724121745.png",
-    "Images/Pasted image 20250723230252.png",
-    "Images/4astl18b.png",
-    "Images/Pasted image 20250723220757.png",
+    "Images/Pasted image 20250727225138.png",
+    "Images/Pasted image 20250727224610.png",
+    "Images/Pasted image 20250727224028.png",
+    "Images/Pasted image 20250727223356.png",
+    "Images/Pasted image 20250727222406.png",
+    "Images/Pasted image 20250727222354.png",
+    "Images/Pasted image 20250724225534.png",
+    "Images/Pasted image 20250724225340.png",
+    "Images/Pasted image 20250724225259.png",
+    "Images/Pasted image 20250724225201.png",
+    "Images/Pasted image 20250724225026.png",
+    "PDFS/SnortCheatsheet-TryHackMe-1647343678716.pdf",
+    "SnortCheatsheet-TryHackMe-1647343678716.pdf",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/1. Traffic Analysis Essentials.md",
-    "Images/bib2rhhc.png",
-    "Images/vsoe91l9.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/7. Trooper.md",
@@ -291,8 +292,6 @@
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",
     "PDFS/m-trends-2025-en.pdf",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks",
-    "Templates",
     "Untitled.canvas",
     "Microprocessor_PYQs_UnitWise.canvas",
     "Untitled 2.canvas",
