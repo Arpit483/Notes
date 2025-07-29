@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24a0823e0eded2db",
+        "id": "3afcbb0e5321e8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "a15a4c39fcaa0a2e",
+            "id": "95b983d96a4977af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Snort Challenge - The Basic"
-            }
-          },
-          {
-            "id": "113d7548f663e118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Snort"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -129,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Snort"
+              "title": "Backlinks"
             }
           },
           {
@@ -148,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Snort"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -175,43 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Snort Challenge - The Basic"
-            }
-          },
-          {
-            "id": "b8eb343bc141865e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "3e4f0a0526520cf1",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "9ce3c1661f292367",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Outline"
             }
           },
           {
@@ -229,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334,
-    "collapsed": true
+    "width": 334
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,21 +208,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a15a4c39fcaa0a2e",
+  "active": "95b983d96a4977af",
   "lastOpenFiles": [
-    "Pasted image 20250729005329.png",
-    "Pasted image 20250729004910.png",
-    "Pasted image 20250729002030.png",
-    "Pasted image 20250729001724.png",
-    "Pasted image 20250729001453.png",
-    "Pasted image 20250729001209.png",
-    "Pasted image 20250729000352.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
-    "Pasted image 20250728235503.png",
-    "Pasted image 20250728234348.png",
-    "Pasted image 20250728234130.png",
-    "Pasted image 20250728234040.png",
+    "Pasted image 20250729234015.png",
+    "Pasted image 20250729232211.png",
+    "Pasted image 20250729232104.png",
+    "Pasted image 20250729231709.png",
+    "Pasted image 20250729231349.png",
+    "Pasted image 20250729231138.png",
+    "Pasted image 20250729230700.png",
+    "Pasted image 20250729225658.png",
+    "Pasted image 20250729225023.png",
+    "Pasted image 20250729005329.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/.md",
     "PDFS/SnortCheatsheet-TryHackMe-1647343678716.pdf",
     "SnortCheatsheet-TryHackMe-1647343678716.pdf",
