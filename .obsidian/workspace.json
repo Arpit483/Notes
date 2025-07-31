@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3afcbb0e5321e8cf",
+        "id": "b768e464d3fe4ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "95b983d96a4977af",
+            "id": "566bf2df2b75cdeb",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 3. Snort Challenge - The Basic"
             }
           },
           {
@@ -129,11 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3. Snort Challenge - The Basic"
             }
           },
           {
@@ -174,13 +176,34 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8ea859e3933ee230",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "45cc00ed03538981",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +231,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95b983d96a4977af",
+  "active": "566bf2df2b75cdeb",
   "lastOpenFiles": [
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/Snort Challenge - Live Attacks.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
+    "Pasted image 20250730214707.png",
+    "Pasted image 20250730214414.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
     "Pasted image 20250729234015.png",
     "Pasted image 20250729232211.png",
@@ -220,8 +246,6 @@
     "Pasted image 20250729231138.png",
     "Pasted image 20250729230700.png",
     "Pasted image 20250729225658.png",
-    "Pasted image 20250729225023.png",
-    "Pasted image 20250729005329.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/.md",
     "PDFS/SnortCheatsheet-TryHackMe-1647343678716.pdf",
     "SnortCheatsheet-TryHackMe-1647343678716.pdf",
@@ -251,7 +275,6 @@
     "CyberSecurity/Try Hack ME/Try Hack ME.md",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/5. MITRE.md",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/6. Summit.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/Drawing 2025-07-14 00.58.10.excalidraw.md",
     "Canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",
