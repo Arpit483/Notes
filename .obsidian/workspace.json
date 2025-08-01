@@ -11,10 +11,14 @@
             "id": "566bf2df2b75cdeb",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Network Miner"
             }
           }
         ]
@@ -233,19 +237,21 @@
   },
   "active": "566bf2df2b75cdeb",
   "lastOpenFiles": [
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/Snort Challenge - Live Attacks.md",
+    "Pasted image 20250802005343.png",
+    "Pasted image 20250802005013.png",
+    "Pasted image 20250802004728.png",
+    "Pasted image 20250802004314.png",
+    "Pasted image 20250802004150.png",
+    "Pasted image 20250802003938.png",
+    "Pasted image 20250802003139.png",
+    "Pasted image 20250802001955.png",
+    "Pasted image 20250802001949.png",
+    "Pasted image 20250801231044.png",
+    "Pasted image 20250801230937.png",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/4. Snort Challenge - Live Attacks.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
-    "Pasted image 20250730214707.png",
-    "Pasted image 20250730214414.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
-    "Pasted image 20250729234015.png",
-    "Pasted image 20250729232211.png",
-    "Pasted image 20250729232104.png",
-    "Pasted image 20250729231709.png",
-    "Pasted image 20250729231349.png",
-    "Pasted image 20250729231138.png",
-    "Pasted image 20250729230700.png",
-    "Pasted image 20250729225658.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/.md",
     "PDFS/SnortCheatsheet-TryHackMe-1647343678716.pdf",
     "SnortCheatsheet-TryHackMe-1647343678716.pdf",
@@ -274,7 +280,6 @@
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/MAL Introductory room.md",
     "CyberSecurity/Try Hack ME/Try Hack ME.md",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/5. MITRE.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/6. Summit.md",
     "Canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",

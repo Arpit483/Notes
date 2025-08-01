@@ -1,7 +1,7 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 21,
-  "cssTheme": "Typomagical",
+  "baseFontSize": 19,
+  "cssTheme": "",
   "theme": "obsidian",
   "showRibbon": false
 }
