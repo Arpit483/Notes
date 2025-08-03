@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -237,8 +236,10 @@
   },
   "active": "566bf2df2b75cdeb",
   "lastOpenFiles": [
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/4. OpenCTI.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
+    "Pasted image 20250803114456.png",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
     "Pasted image 20250802005343.png",
     "Pasted image 20250802005013.png",
     "Pasted image 20250802004728.png",
@@ -248,7 +249,6 @@
     "Pasted image 20250802003139.png",
     "Pasted image 20250802001955.png",
     "Pasted image 20250802001949.png",
-    "Pasted image 20250801231044.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/4. Snort Challenge - Live Attacks.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
@@ -273,13 +273,11 @@
     "Arpit Deosthale.md",
     "To Do.md",
     "CyberSecurity/Roadmap.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/4. OpenCTI.md",
     "Canvas/RoadMap.canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/1. Intro to Cyber Threat Intel.md",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/3. Yara.md",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/MAL Introductory room.md",
     "CyberSecurity/Try Hack ME/Try Hack ME.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/5. MITRE.md",
     "Canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",
