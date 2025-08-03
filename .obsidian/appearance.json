@@ -1,7 +1,7 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 19,
-  "cssTheme": "Encore",
+  "baseFontSize": 18,
+  "cssTheme": "",
   "theme": "obsidian",
   "showRibbon": false
 }
