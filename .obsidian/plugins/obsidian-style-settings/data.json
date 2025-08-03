@@ -10,7 +10,7 @@
   "encore-settings@@encore-disable-logo-on-hr": false,
   "encore-settings@@encore-no-calendar": false,
   "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
-  "encore-settings@@encore-translucency-background": "encore-bg-dawn",
+  "encore-settings@@encore-translucency-background": "encore-bg-chromatic",
   "encore-settings@@encore-translucency-strength": 0.1,
   "encore-settings@@blur-amount": "encore-blur-less",
   "encore-settings@@encore-no-makemd": false,

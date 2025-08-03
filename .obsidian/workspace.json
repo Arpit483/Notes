@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Network Miner"
+              "title": "6. Zeek"
             }
           }
         ]
@@ -237,6 +237,8 @@
   },
   "active": "566bf2df2b75cdeb",
   "lastOpenFiles": [
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
     "Pasted image 20250802005343.png",
     "Pasted image 20250802005013.png",
     "Pasted image 20250802004728.png",
@@ -247,9 +249,7 @@
     "Pasted image 20250802001955.png",
     "Pasted image 20250802001949.png",
     "Pasted image 20250801231044.png",
-    "Pasted image 20250801230937.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/4. Snort Challenge - Live Attacks.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/.md",
