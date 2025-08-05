@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e88ab2197e16b001",
+        "id": "138fc4c3085d3253",
         "type": "tabs",
         "children": [
           {
-            "id": "b391c0709d6d9348",
+            "id": "6ce8c2a741cefb49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -235,23 +234,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b391c0709d6d9348",
+  "active": "6ce8c2a741cefb49",
   "lastOpenFiles": [
-    "Pasted image 20250803223839.png",
-    "Pasted image 20250803222316.png",
-    "Pasted image 20250803195533.png",
-    "93f31d7853edd50e43be99dd791325e7.png",
-    "Canvas/RoadMap.canvas",
+    "Images/Pasted image 20250801230544.png",
+    "Images/Pasted image 20250801230528.png",
+    "Images/Pasted image 20250730214707.png",
+    "Images/Pasted image 20250730214414.png",
+    "Images/Pasted image 20250729234015.png",
+    "Images/Pasted image 20250729232211.png",
+    "Images/Pasted image 20250729232104.png",
+    "Images/Pasted image 20250729231709.png",
+    "Images/Pasted image 20250729231349.png",
+    "Images/Pasted image 20250729231138.png",
+    "Images/Pasted image 20250729230700.png",
+    "CyberSecurity/Course/6th Lecture.md",
+    "Blog/Nmap blog.md",
+    "CyberSecurity/Course/12th Lecture.md",
+    "CyberSecurity/Try Hack ME/RED Team/LazyAdmin.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
+    "CyberSecurity/Try Hack ME/RED Team/.md",
+    "CyberSecurity/Try Hack ME/RED Team",
+    "Canvas/RoadMap.canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/4. OpenCTI.md",
-    "Pasted image 20250803114456.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/5. Network Miner.md",
-    "Pasted image 20250802005343.png",
-    "Pasted image 20250802005013.png",
-    "Pasted image 20250802004728.png",
-    "Pasted image 20250802004314.png",
-    "Pasted image 20250802004150.png",
-    "Pasted image 20250802003938.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/4. Snort Challenge - Live Attacks.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/2. Snort.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
@@ -275,15 +280,9 @@
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/2. Cyber Kill Chain.md",
     "Arpit Deosthale.md",
     "To Do.md",
-    "CyberSecurity/Roadmap.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/1. Intro to Cyber Threat Intel.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/3. Yara.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/MAL Introductory room.md",
-    "CyberSecurity/Try Hack ME/Try Hack ME.md",
     "Canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",
-    "PDFS/m-trends-2025-en.pdf",
     "Untitled.canvas",
     "Microprocessor_PYQs_UnitWise.canvas",
     "Untitled 2.canvas",
