@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -236,6 +237,7 @@
   },
   "active": "6ce8c2a741cefb49",
   "lastOpenFiles": [
+    "README.md",
     "Images/Pasted image 20250801230544.png",
     "Images/Pasted image 20250801230528.png",
     "Images/Pasted image 20250730214707.png",
@@ -246,7 +248,6 @@
     "Images/Pasted image 20250729231709.png",
     "Images/Pasted image 20250729231349.png",
     "Images/Pasted image 20250729231138.png",
-    "Images/Pasted image 20250729230700.png",
     "CyberSecurity/Course/6th Lecture.md",
     "Blog/Nmap blog.md",
     "CyberSecurity/Course/12th Lecture.md",
