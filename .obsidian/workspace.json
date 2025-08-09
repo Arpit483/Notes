@@ -199,14 +199,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "b017a84fce2113b6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,21 +243,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ce8c2a741cefb49",
+  "active": "b017a84fce2113b6",
   "lastOpenFiles": [
-    "Pasted image 20250810013653.png",
-    "Pasted image 20250810012340.png",
-    "Pasted image 20250810011435.png",
-    "Pasted image 20250810011305.png",
-    "Pasted image 20250810010713.png",
-    "Pasted image 20250810004150.png",
+    "Images/Pasted image 20250809012146.png",
+    "Images/Pasted image 20250809011758.png",
+    "Images/Pasted image 20250809011240.png",
+    "Images/Pasted image 20250809010924.png",
+    "Images/Pasted image 20250809010543.png",
+    "Images/Pasted image 20250809010418.png",
+    "Images/Pasted image 20250809005436.png",
+    "Images/Pasted image 20250809005002.png",
+    "Images/Pasted image 20250808235519.png",
+    "Images/Pasted image 20250810013653.png",
+    "Images/Pasted image 20250810012340.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/7. Zeek Exercises.md",
-    "Pasted image 20250810003846.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
-    "Pasted image 20250809012341.png",
-    "Pasted image 20250809012146.png",
-    "Pasted image 20250809011758.png",
-    "Pasted image 20250809011240.png",
     "CyberSecurity/Try Hack ME/RED Team/LazyAdmin.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
     "README.md",
