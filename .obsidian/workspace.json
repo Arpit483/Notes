@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/7. Zeek Exercises.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/8. Brim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Zeek Exercises"
+              "title": "8. Brim"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -246,6 +247,10 @@
   },
   "active": "6ce8c2a741cefb49",
   "lastOpenFiles": [
+    "ff4d1d9dead9acca747fc48cc2f43ec2.png",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/7. Zeek Exercises.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/8. Brim.md",
     "Images/Pasted image 20250809012146.png",
     "Images/Pasted image 20250809011758.png",
     "Images/Pasted image 20250809011240.png",
@@ -256,9 +261,6 @@
     "Images/Pasted image 20250809005002.png",
     "Images/Pasted image 20250808235519.png",
     "Images/Pasted image 20250810013653.png",
-    "Images/Pasted image 20250810012340.png",
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/7. Zeek Exercises.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
     "CyberSecurity/Try Hack ME/RED Team/LazyAdmin.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/3. Snort Challenge - The Basic.md",
     "README.md",
@@ -289,7 +291,6 @@
     "Timeline.md",
     "CyberSecurity/Skill Req.md",
     "CyberSecurity/WebHacking/PortSwigger/Burp Suite -- API.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Defence Frameworks/2. Cyber Kill Chain.md",
     "Canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",
