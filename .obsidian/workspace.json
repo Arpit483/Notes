@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/10. Wireshark Packet Operations.md",
+                "file": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/11. Wireshark Traffic Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Wireshark Packet Operations"
+              "title": "11. Wireshark Traffic Analysis"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "eb50bd4edc8c1d5f",
@@ -247,19 +246,20 @@
   },
   "active": "6ce8c2a741cefb49",
   "lastOpenFiles": [
-    "Pasted image 20250817002043.png",
-    "Pasted image 20250817001442.png",
-    "Pasted image 20250817001403.png",
-    "Pasted image 20250817001242.png",
-    "Pasted image 20250817001208.png",
-    "Pasted image 20250813001841.png",
-    "Pasted image 20250813001712.png",
-    "Pasted image 20250813001418.png",
-    "Pasted image 20250812235220.png",
-    "Pasted image 20250812235100.png",
-    "5bac23950841825eef688ca87dcd63d6.png",
-    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/9. Wireshark -The Basic.md",
+    "Images/Pasted image 20250817005425.png",
+    "Images/Pasted image 20250817005329.png",
+    "Images/Pasted image 20250817004852.png",
+    "Images/Pasted image 20250817004809.png",
+    "Images/Pasted image 20250817002043.png",
+    "Images/Pasted image 20250817001442.png",
+    "Images/Pasted image 20250817001403.png",
+    "Images/Pasted image 20250817001242.png",
+    "Images/Pasted image 20250817001208.png",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/10. Wireshark Packet Operations.md",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/11. Wireshark Traffic Analysis.md",
+    "Pasted image 20250817005425.png",
+    "Pasted image 20250817005329.png",
+    "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/9. Wireshark -The Basic.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/8. Brim.md",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/3. Yara.md",
     "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/6. Zeek.md",
@@ -290,7 +290,6 @@
     "APT X_USBFerry.pdf",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/2. Threat Intelligence Tools.md",
     "CyberSecurity/Course/Ciphers.md",
-    "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence/5. MISP.md",
     "Canvas",
     "CyberSecurity/Try Hack ME/SOC L1/Cyber Threat Intelligence",
     "Tags",
