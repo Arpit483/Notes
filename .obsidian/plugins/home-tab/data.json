@@ -22,7 +22,24 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/11. Wireshark Traffic Analysis.md",
+      "timestamp": 1755372845497
+    },
+    {
+      "filepath": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/8. Brim.md",
+      "timestamp": 1755372843190
+    },
+    {
+      "filepath": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/9. Wireshark -The Basic.md",
+      "timestamp": 1755372840864
+    },
+    {
+      "filepath": "CyberSecurity/Try Hack ME/SOC L1/Network Security and Traffic Analysis/10. Wireshark Packet Operations.md",
+      "timestamp": 1755372839676
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
